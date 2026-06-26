@@ -12,3 +12,7 @@ __MACOSX/
 *.swp
 *.swo
 *~
+
+# secrets
+.env
+.env.local
